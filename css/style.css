@@ -1,0 +1,22 @@
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 50px 0;
+}
+
+#home {
+    height: 500px;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
