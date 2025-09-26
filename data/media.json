@@ -1,0 +1,70 @@
+{
+    "hero": [
+      {
+        "src": "images/banner.jpg",
+        "alt": "Girls celebrating on a football pitch",
+        "title": "Empowering Girls Through Sports",
+        "subtitle": "Girls showing confidence and leadership on the field."
+      },
+      {
+        "src": "images/banner1.jpg",
+        "alt": "Basketball huddle",
+        "title": "Strength in Teamwork",
+        "subtitle": "Teamwork helps girls achieve more."
+      },
+      {
+        "src": "images/banner2.jpg",
+        "alt": "Track and field sprint start",
+        "title": "Breaking Barriers",
+        "subtitle": "Girls breaking stereotypes through sports."
+      }
+      {
+        "src": "images/banner3.jpg",
+        "alt": "Track and field sprint start",
+        "title": "Breaking Barriers",
+        "subtitle": "Girls breaking stereotypes through sports."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "images/photo1.jpg",
+        "alt": "Inter-school soccer match",
+        "title": "Soccer Tournament",
+        "caption": "Girls competing in an inter-school soccer event."
+      },
+      {
+        "src": "images/photo2.jpg",
+        "alt": "Basketball match in progress",
+        "title": "Basketball Match",
+        "caption": "Teamwork in a thrilling basketball match."
+      },
+      {
+        "src": "images/photo3.jpg",
+        "alt": "Athletics track race",
+        "title": "Athletics Championship",
+        "caption": "Track and field excellence."
+      },
+      {
+        "src": "images/photo4.jpg",
+        "alt": "Community outreach photo",
+        "title": "Community Outreach",
+        "caption": "Engaging parents and schools."
+      },
+      {
+        "src": "images/photo5.jpg",
+        "alt": "Coaching clinic classroom",
+        "title": "Coaching Clinic",
+        "caption": "Upskilling PE teachers and coaches."
+      },
+      {
+        "src": "images/photo6.jpg",
+        "alt": "Referee training session",
+        "title": "Referee Training",
+        "caption": "Hands-on officiating practice."
+      }
+    ],
+    "defaults": {
+      "gallery_fallback": "images/gallery/default.jpg"
+    }
+  }
+  

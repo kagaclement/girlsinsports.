@@ -1,0 +1,21 @@
+<script type="application/json" id="events-json">
+[
+  {
+    "title": "Community Sports Day",
+    "date": "2025-03-22",
+    "location": "Kamonyi",
+    "image": "images/event1.jpg",
+    "link": "#",
+    "description": "Family-friendly sports day encouraging participation."
+  },
+  {
+    "title": "Girls Holidays Retreat",
+    "date": "2025-08-04",
+    "endDate": "2025-08-08",
+    "location": "Kamonyi",
+    "image": "images/event2.jpg",
+    "link": "#",
+    "description": "Keeps girls active and confident over the holidays."
+  }
+]
+</script>
